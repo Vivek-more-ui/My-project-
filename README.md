@@ -25,3 +25,6 @@ Table: users
 
 ## Note
 This is a DBMS mini project.
+
+## 📄 Project Report
+[View Report](https://github.com/Vivek-more-ui/My-project-/blob/main/Reporrt.pdf)
